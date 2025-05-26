@@ -28,11 +28,11 @@ This repository is based on [SyViC](https://github.com/uvavision/SyViC). We sinc
 ## Citation
 If you find our repository useful, please consider citing our paper.
 ```
-@article{li2025enhancing,
-  title={Enhancing Vision-Language Compositional Understanding with Multimodal Synthetic Data},
-  author={Li, Haoxin and Li, Boyang},
-  journal={arXiv preprint arXiv:2503.01167},
-  year={2025}
+@inproceedings{SPARCL-2025,
+  author = {Haoxin Li and Boyang Li},
+  title = {Enhancing Vision-Language Compositional Understanding with Multimodal Synthetic Data.},
+  booktitle = {The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+  year = {2025}
 }
 ```
 
