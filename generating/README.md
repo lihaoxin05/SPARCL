@@ -32,3 +32,4 @@ CUDA_VISIBLE_DEVICES=0 python t2i_CLIPMixTextImage.py \
 --start 1 --end 11 \
 --mix_alg 0
 ```
+3. We have provided some examples of generated images [here](https://1drv.ms/u/c/c88d845f827102a9/EcEEEG86W49PuflEC9T04wkB5OV2jKOUvz7XDoYvfp2hQA?e=BaAb2q).
