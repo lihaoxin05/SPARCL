@@ -13,3 +13,5 @@ cd scripts
 bash run.sh
 ```
 The `run.sh` script handles both training and evaluation. You can modify the script to set your desired hyper-parameters.
+
+We release our trained model [here](https://1drv.ms/u/c/c88d845f827102a9/EedRYJSftYdDnr_872E313kBuNQSuR-hVpPNRmNCqk1zJg?e=t2lEPm).
